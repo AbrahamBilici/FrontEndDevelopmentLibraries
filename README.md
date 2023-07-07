@@ -1,4 +1,4 @@
-# This Repository is about My 'Front End Development Libraries' Certification Projects
+# Front End Development Libraries Certification Projects
 
 This repository showcases my projects for the 'Front End Development Libraries' certification. You can view my certification [here.](https://www.freecodecamp.org/certification/AbrahamBilici/front-end-development-libraries)
 
